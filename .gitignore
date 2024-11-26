@@ -1,0 +1,19 @@
+# Ignorar archivos .nc
+*.nc
+
+# Ignorar archivos .jpg
+*.jpg
+
+# Ignorar archivos .png
+*.png
+
+# Ignorar archivos .csv
+*.csv
+
+# Ignorar __pycache__
+__pycache__/
+
+# Ignorar archivos temporales
+*.pyc
+*.pyo
+*.~$

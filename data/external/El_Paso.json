@@ -1,0 +1,74 @@
+{
+  "latitude": 9.793073,
+  "longitude": -73.725154,
+  "tz": "America/Bogota",
+  "altitude": 50.0,
+  "surface_albedo": 0.18,
+  "inverter_name": "SOLEIL-DSPXTLH-1500VDC-TIER3-1415M",
+  "ac_model": "sandia",
+  "inverter": {
+    "Paco": 1415000.0,
+    "Pdco": 1435000.0,
+    "Vdco": 1200.0,
+    "Pso": 7175.0,
+    "C0": 2.06925e-09,
+    "C1": 3.026919e-06,
+    "C2": 0.001936,
+    "C3": 0.000679,
+    "Pnt": 60.0
+  },
+  "module_name": "Jinko_Solar_Co___Ltd_JKMS345M_72",
+  "module": {
+    "T_NOCT": 45.0,
+    "Technology": "monosi",
+    "N_s": 72,
+    "I_sc_ref": 9.31,
+    "V_oc_ref": 47.3,
+    "I_mp_ref": 8.87,
+    "V_mp_ref": 38.9,
+    "alpha_sc": 0.005335,
+    "beta_oc": -0.155617,
+    "gamma_r": -0.416,
+    "STC": 345.043
+  },
+  "bifacial": false,
+  "bifaciality": null,
+  "row_height": null,
+  "row_width": null,
+  "num_arrays": 4,
+  "modules_per_string": [
+    30,
+    30,
+    30,
+    30
+  ],
+  "strings_per_inverter": [
+    6,
+    24,
+    12,
+    15
+  ],
+  "num_inverter": 2,
+  "with_tracker": false,
+  "surface_tilt": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "surface_azimuth": [
+    180.0,
+    180.0,
+    180.0,
+    180.0
+  ],
+  "axis_tilt": null,
+  "axis_azimuth": null,
+  "max_angle": null,
+  "module_type": "glass_glass",
+  "loss": 14.6,
+  "kpc": 0.0,
+  "kt": 0.0,
+  "kin": 0.0,
+  "name": "El_Paso"
+}
